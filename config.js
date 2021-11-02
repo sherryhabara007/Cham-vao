@@ -1,4 +1,4 @@
-const nameGirl = 'Minh Ngọc';
+const nameGirl = 'Ngọc Diệp';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chọn vào đây nè';
 const titleCard = 'Bất ngờ chưa';
